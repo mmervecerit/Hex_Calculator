@@ -1,6 +1,3 @@
-CMPE230 Project3 - Hexadecimal Calculator Implementation with QT
-Merve Cerit - Kubra Eryilmaz
-2012402015 - 2014400186
 
 -----HOW TO USE HEXCALCULATOR?-----
 
